@@ -16,10 +16,10 @@ This is the fullstack boilerplate for AdonisJs, it comes pre-configured with.
 Use the adonis command to install the blueprint
 
 ```bash
-adonis new yardstick
+npm install
 ```
 
-or manually clone the repo and then run `npm install`.
+<!-- or manually clone the repo and then run `npm install`. -->
 
 
 ### Migrations
